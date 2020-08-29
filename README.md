@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-💻##**I'm Tommy Royall, a Developer, Student, Amateur Scientist and Professional Nerd.**
+💻**I'm Tommy Royall, a Developer, Student, Amateur Scientist and Professional Nerd.**
 
 
 * 🔭 I’m currently working on ...
@@ -15,6 +15,7 @@
   * Corpus Linguistics with Python & NLTK.
   * Audio DSP with C++ & JUCE.
   * Reading on Automata & Computational Complexity.
+  * Reverse Engineering & Malware Analysis with Ghidra.
 
 * 💬 Ask me about
   * Lua (my native language).
