@@ -38,7 +38,9 @@
   * PHP with Laravel and CodeIgniter.
   * Lua with Löve2D.
   * Java.
-  * Python, C++ with JUCE, Batch and Shell scripting, OpenGL (I'm a shader nerd).
+  * Python.
+  * C++ with JUCE.
+  * Batch and Shell scripting.
 
 * 😄 Pronouns: He/Him.
 * 📫 How to reach me: Email me at esperighanto@gmail.com.
